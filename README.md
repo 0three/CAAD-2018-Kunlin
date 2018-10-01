@@ -13,11 +13,11 @@ This project proposed a method to defense against adversarial attack. By combini
 
 The main ideal of the defense is to utilize preprocessing to defend adversarial examples:
 ## Adding gaussian blur: 
-///python
+'''python
 image = cv2.GaussianBlur(image,(7,7),5)
-///
+'''
 ## Weiner filtering:
-///python
+'''python
 image = wiener(image) / 255.0
-///
+'''
  ![image](https://github.com/0three/CAAD-2018-Kunlin/blob/master/CAAD-kunlin.png)
