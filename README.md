@@ -14,4 +14,4 @@ This project proposed a method to defense against adversarial attack. By combini
 The main ideal of the defense is to utilize preprocessing to defend adversarial examples:
 ## Adding gaussian blur: 
 ## Weiner filtering: 
- ![image](https://github.com/0three/CAAD-2018-Kunlin/CAAD-kunlin.png)
+ ![image](https://github.com/0three/CAAD-2018-Kunlin/blob/master/CAAD-kunlin.png)
