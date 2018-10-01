@@ -24,8 +24,8 @@ image = wiener(image) / 255.0
  
  # Pros
  
- 1.Easy to reappearence and extend. \par
- 2.Compatiable to popular image classification networks. (i.e., we use preprocessing + adversarial training + Rexnet_V2_50 in our submission)
+ * 1.Easy to reappearence and extend. 
+ * 2.Compatiable to popular image classification networks. (i.e., we use preprocessing + adversarial training + Rexnet_V2_50 in our submission)
 
 # Team Member
 
