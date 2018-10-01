@@ -22,15 +22,15 @@ image = wiener(image) / 255.0
 ```
  ![image](https://github.com/0three/CAAD-2018-Kunlin/blob/master/CAAD-kunlin.png)
  
- #Pros
+ # Pros
  
  1.Easy to reappearence and extend.
  2.Compatiable to popular image classification networks. (i.e., we use preprocessing + adversarial training + Rexnet_V2_50 in our submission)
 
-#Team Member
+# Team Member
 
 * Kunlin Liu (University of Science and Technology in China)
 * Xiaoyu Ye (Sensetime)
 
-#Leaderboard
+# Leaderboard
 Our team name is Kunlin, and our rank is No.5.(https://en.caad.geekpwn.org/competition/list.html?menuId=10)
