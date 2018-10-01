@@ -1,0 +1,6 @@
+{
+  "type": "defense",
+  "container": "kunlin/tensorflowcv:latest",
+  "container_gpu": "kunlin/tfcv-gpu:latest",
+  "entry_point": "run_defense.sh"
+}
